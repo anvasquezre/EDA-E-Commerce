@@ -1,0 +1,10 @@
+.pytest_cache/
+airflow/
+dataset/*.csv
+dataset/*.zip
+images/
+src/__py*
+tests/__py*
+olist.db
+images
+.vscode
